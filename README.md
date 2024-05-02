@@ -1,4 +1,4 @@
-![GCP Associate Cloud Certification](https://storage.cloud.google.com/mahi177/Associate%20Cloud%20Engineer%20Google%20Meets%20Background.png?authuser=1)
+![GCP Associate Cloud Certification](https://i.imgur.com/JJquIbJ.png)
 
 # Hi, I'm Mahendar Guda! 👋
 
