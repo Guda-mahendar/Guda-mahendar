@@ -1,16 +1,44 @@
-### Hi there 👋
+![GCP Associate Cloud Certification](https://storage.cloud.google.com/mahi177/Associate%20Cloud%20Engineer%20Google%20Meets%20Background.png?authuser=1)
 
-<!--
-**Guda-mahendar/Guda-mahendar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mahendar Guda! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a computer science enthusiast with a passion for cloud technologies. Feel free to explore my projects and connect with me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📞 **Contact:** +91-9110506825 | ✉️ **Email:** mahendarguda17@gmail.com
+
+## Education
+
+- **Master of Computer Science**  
+  Sree Chaitanya College of Engineering (2022 - 2024)
+
+- **Bachelor of Science in MSCs**  
+  Nizam College (2019 - 2022)
+
+## Skills
+
+- **Google Cloud Platform:** IAM, Compute Engine, App Engine, GKE, Cloud Run, Pub/Sub, Cloud Monitoring, and Logging
+- **Front End Development:** HTML, CSS, JavaScript
+- **Infrastructure as Code:** Terraform
+- **Containerization:** Docker, Kubernetes
+- **Version Control:** Git, GitHub
+
+## Certifications
+
+- **Google Cloud Associate Cloud**
+- **Google Cloud Cloud Digital Leader**
+
+## Projects
+
+### Weather App
+- Developed using Python, Cloud Build, Docker, and Weather API.
+- Deployed on Google Cloud Run.
+
+### ChatBot
+- Created with Python, Flask, Docker, and Generative AI.
+- Deployed on Google Cloud Run.
+
+### Ultimate CI/CD Pipeline
+- Jenkins, Maven, SonarQube, Argo CD, Helm, Kubernetes, Java.
+- Automated CI/CD processes.
+
+Feel free to reach out to me or explore more on my [portfolio](#)!
