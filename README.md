@@ -1,4 +1,4 @@
-![GCP Associate Cloud Certification](https://i.imgur.com/JJquIbJ.png)
+![GCP Associate Cloud Certification](https://imgur.com/726wpDr)
 
 # Hi, I'm Mahendar Guda! 👋
 
