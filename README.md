@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Guda-mahendar/Guda-mahendar/blob/main/Associate_Linkedin%402x.jpg)
 
 # Hi, I'm Mahendar Guda! 👋
 
