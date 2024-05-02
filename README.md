@@ -2,7 +2,7 @@
 
 # Hi, I'm Mahendar Guda! 👋
 
-Welcome to my GitHub profile! I'm Mahendar Guda, a passionate computer science enthusiast with a strong focus on cloud technologies. I'm certified as a Google Cloud Platform (GCP) Associate Cloud Engineer and Cloud Digital Leader. Explore my projects and connect with me to delve into the world of cloud computing!"
+Welcome to my GitHub profile! I'm Mahendar Guda, a passionate computer science enthusiast with a strong focus on cloud technologies. I'm certified as a Google Cloud Platform (GCP) Associate Cloud Engineer and Cloud Digital Leader. Explore my projects and connect with me to delve into the world of cloud computing!
 
 📞 **Contact:** +91-9110506825 | ✉️ **Email:** mahendarguda17@gmail.com
 
